@@ -24,46 +24,47 @@ O plano de testes define as estratégias, escopo e cronograma para garantir a qu
 
 ### 3. Objetivos do Teste
 
-Validar todas as funcionalidades do aplicativo.
-Garantir que a interface seja intuitiva e acessível para todos os públicos.
-Assegurar que o aplicativo seja seguro e proteja os dados sensíveis dos usuários.
-Testar a performance em diferentes dispositivos e cenários.
+- Validar todas as funcionalidades do aplicativo.
+- Garantir que a interface seja intuitiva e acessível para todos os públicos.
+- Assegurar que o aplicativo seja seguro e proteja os dados sensíveis dos usuários.
+- Testar a performance em diferentes dispositivos e cenários.
 
 ### 4. Estratégias de Teste
 
 #### 4.1 Tipos de Testes
 
-- Testes Funcionais:
+##### Testes Funcionais:
 
-Verificação do cálculo correto de tendências de glicemia.
-Validação do envio de alertas e notificações.
-Teste de integração com dispositivos externos.
+- Verificação do cálculo correto de tendências de glicemia.
+- Validação do envio de alertas e notificações.
+- Teste de integração com dispositivos externos.
 
-- Testes de Usabilidade:
+##### Testes de Usabilidade:
 
 Avaliação da navegação intuitiva.
 Testes com usuários reais para feedback direto.
 
-- Testes de Performance:
+##### Testes de Performance:
 
-Testar com cargas altas de dados para avaliar tempo de resposta.
+- Testar com cargas altas de dados para avaliar tempo de resposta.
 
-- Testes de Segurança:
+##### Testes de Segurança:
 
-Verificação de autenticação e autorização.
-Testes de criptografia de dados e proteção contra vazamento.
+- Verificação de autenticação e autorização.
+- Testes de criptografia de dados e proteção contra vazamento.
 
-- Testes de Acessibilidade:
+##### Testes de Acessibilidade:
 
-Garantir conformidade com padrões como WCAG 2.1.
-Testar leitores de tela e outros dispositivos assistivos.
+- Garantir conformidade com padrões como WCAG 2.1.
+- Testar leitores de tela e outros dispositivos assistivos.
 
 ### 5. Critérios de Aceitação
 
-O aplicativo deve realizar cálculos de glicemia sem erros.
-O tempo de resposta não deve exceder 2 segundos para qualquer funcionalidade principal.
-Os dados devem estar protegidos por criptografia em trânsito e em repouso.
-O design deve ser acessível, com fontes ajustáveis e contraste suficiente.
+- O aplicativo deve realizar cálculos de glicemia sem erros.
+- O tempo de resposta não deve exceder 2 segundos para qualquer funcionalidade principal.
+- Os dados devem estar protegidos por criptografia em trânsito e em repouso.
+- O design deve ser acessível, com fontes ajustáveis e contraste suficiente.
+
 
 ### 6. Ferramentas de Teste
 
